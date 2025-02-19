@@ -1,4 +1,3 @@
-import java.util.*;
 public class Mixedpattern {
     public static void main(String[] args){
         int n =4;
